@@ -8,3 +8,12 @@ h1 {
     font-size: 100;
     
 }
+
+
+footer {
+    float: left;
+        left: 40%;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 10px;
+}
